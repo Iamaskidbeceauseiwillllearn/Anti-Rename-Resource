@@ -1,0 +1,1 @@
+# MS-Anti-Rename-Resource
